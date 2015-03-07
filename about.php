@@ -5,34 +5,6 @@ include("inc/header.php");
 <div id="header-featured"> </div>
 
 <div id="wrapper">
-  <div id="featured-wrapper">
-    <div id="featured" class="container">
-      <div class="column1"> <img src="images/physicsicon.png" alt="animation icon" style="width:100px;height:100px">
-        <div class="title">
-           <h2>Physics</h2>
-        </div>
-        <p>Physics is all around us and is taken for granted. However, it is important to learn physics to understand how everything works on earth.</p>
-      </div>
-      <div class="column2"> <img src="images/animationicon.png" alt="animation icon" style="width:100px;height:100px">
-        <div class="title">
-          <h2>Animation</h2>
-        </div>
-        <p>Animations are usefull to get a visual of what an object in motion would look like.  </p>
-      </div>
-      <div class="column3"> <img src="images/webicon.png" alt="web icon" style="width:100px;height:100px">
-        <div class="title">
-          <h2>Websites</h2>
-        </div>
-        <p>Websites are usefull because it brings content together, and easily accesable to millions of people around the world through the web.</p>
-      </div>
-      <div class="column4"> <img src="images/speedlogo.png" alt="phsyics icon" style="width:100px;height:100px">
-        <div class="title">
-          <h2>PBL</h2>
-        </div>
-        <p>A PBL is a project based learning, and our objective is to combine all three elements of physics, animation, and websites to teach a physics concept.</p>
-      </div>
-    </div>
-  </div>
   <div id="extra" class="container">
     <h2>What's Our Animation?</h2>
     <span>Clift Off!</span>

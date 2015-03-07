@@ -5,39 +5,11 @@ include("inc/header.php");
 <div id="header-featured"> </div>
 
 <div id="wrapper">
-  <div id="featured-wrapper">
-    <div id="featured" class="container">
-      <div class="column1"> <img src="images/physicsicon.png" alt="animation icon" style="width:100px;height:100px">
-        <div class="title">
-           <h2>Physics</h2>
-        </div>
-        <p>Physics is all around us and is taken for granted. However, it is important to learn physics to understand how everything works on earth.</p>
-      </div>
-      <div class="column2"> <img src="images/animationicon.png" alt="animation icon" style="width:100px;height:100px">
-        <div class="title">
-          <h2>Animation</h2>
-        </div>
-        <p>Animations are usefull to get a visual of what an object in motion would look like.  </p>
-      </div>
-      <div class="column3"> <img src="images/webicon.png" alt="web icon" style="width:100px;height:100px">
-        <div class="title">
-          <h2>Websites</h2>
-        </div>
-        <p>Websites are usefull because it brings content together, and easily accesable to millions of people around the world through the web.</p>
-      </div>
-      <div class="column4"> <img src="images/speedlogo.png" alt="phsyics icon" style="width:100px;height:100px">
-        <div class="title">
-          <h2>PBL</h2>
-        </div>
-        <p>A PBL is a project based learning, and our objective is to combine all three elements of physics, animation, and websites to teach a physics concept.</p>
-      </div>
-    </div>
-  </div>
   <div id="extra" class="container">
     <h2>Physic Explanation</h2>
     <span>Whats the physics behind the animation?</span>
     <p>We’re going to take a look at some of the physics behind a car driving off a cliff into an indiscriminate body of water, like a lake or pond, but most likely a river because erosion. As our car is driving along the cliff, ready to fly off, let’s say it’s moving a cool 45 meters per second (m/s), which roughly translates to 100 miles per hour. The car is able to move when the driver pushes on the gas pedal because of friction. The engine spins the axle of the front tires, and the tires spin clockwise. Friction is acting in the opposite direction to that which the driver is trying to go. This gives the tire enough grip to move forward and propel the car forward.</p>
-	<p>The car approaches the edge of the cliff. Let’s say this cliff is 50m high, a nice, round number. The car shoots off, falling to the water in an arc. If we want to find out how long it takes the car to hit the water, we need to use an equation. We also would want to find out how far from the cliff the car lands in the water. Since the car is moving both horizontally and vertically, we will need equations for both horizontal movement and vertical movement.</p>
+    <p>The car approaches the edge of the cliff. Let’s say this cliff is 50m high, a nice, round number. The car shoots off, falling to the water in an arc. If we want to find out how long it takes the car to hit the water, we need to use an equation. We also would want to find out how far from the cliff the car lands in the water. Since the car is moving both horizontally and vertically, we will need equations for both horizontal movement and vertical movement.</p>
 <p>Before we solve any equations, however, we need to write down the information we know. Everything we need to know has already been stated in the above paragraphs or is common knowledge. </p>
       <p>So for our horizontal information, we have:</p>
       <br>
