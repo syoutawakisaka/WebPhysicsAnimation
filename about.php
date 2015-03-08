@@ -2,8 +2,16 @@
 $title = "About";
 include("inc/header.php");
 ?>
-<div id="header-featured"> </div>
-
+<div class="slider-wrapper">
+    <div class="single-item">
+        <div><img src="images/car.png" alt="car">
+        </div>
+        <div><img src="images/car.png" alt="car">
+        </div>
+        <div><img src="images/car.png" alt="car">
+        </div>
+    </div>
+</div>
 <div id="wrapper">
   <div id="extra" class="container">
     <h2>What's Our Animation?</h2>
